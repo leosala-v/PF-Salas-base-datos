@@ -230,15 +230,6 @@
       "id": 27
     },
     {
-      "name": "Valeria",
-      "lastName": "Martínez",
-      "email": "student26@mail.com",
-      "password": "123456",
-      "token": "321473rBVCBjkehwu",
-      "role": "STUDENT",
-      "id": 28
-    },
-    {
       "name": "Andrés",
       "lastName": "Hernández",
       "email": "student27@mail.com",
@@ -357,11 +348,6 @@
       "courseId": 5,
       "userId": 11,
       "id": 2
-    },
-    {
-      "courseId": 4,
-      "userId": 28,
-      "id": 3
     }
   ],
   "courses": [
