@@ -1,0 +1,389 @@
+{
+  "curses": [
+    {
+      "id": 1,
+      "name": "Hemoderivados"
+    },
+    {
+      "id": 2,
+      "name": "Hemdotransfución"
+    },
+    {
+      "id": 3,
+      "name": "Gestión en Servcios de Hemoterapia"
+    },
+    {
+      "id": 4,
+      "name": "Etica Profecional"
+    },
+    {
+      "id": 5,
+      "name": "Bioseguridad"
+    }
+  ],
+  "users": [
+    {
+      "name": "Josue",
+      "lastName": "Baez",
+      "password": "123456",
+      "token": "jdsgfjkldkbnvdkm",
+      "email": "admin@mail.com",
+      "role": "ADMIN",
+      "id": 1
+    },
+    {
+      "name": "administrador",
+      "lastName": "nuevonombre",
+      "email": "empleado@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 2
+    },
+    {
+      "name": "Ana",
+      "lastName": "Pérez",
+      "email": "student4@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 6
+    },
+    {
+      "name": "Diego",
+      "lastName": "López",
+      "email": "student5@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 7
+    },
+    {
+      "name": "Carolina",
+      "lastName": "Hernández",
+      "email": "student6@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 8
+    },
+    {
+      "name": "María",
+      "lastName": "Sánchez",
+      "email": "student8@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 10
+    },
+    {
+      "name": "Pedro",
+      "lastName": "García",
+      "email": "student9@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 11
+    },
+    {
+      "name": "Laura",
+      "lastName": "Fernández",
+      "email": "student10@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 12
+    },
+    {
+      "name": "Roberto",
+      "lastName": "Rosas",
+      "email": "student11@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 13
+    },
+    {
+      "name": "Fernanda",
+      "lastName": "Ramírez",
+      "email": "student12@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 14
+    },
+    {
+      "name": "Carlos",
+      "lastName": "Juárez",
+      "email": "student13@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 15
+    },
+    {
+      "name": "Isabel",
+      "lastName": "Torres",
+      "email": "student14@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 16
+    },
+    {
+      "name": "Ricardo",
+      "lastName": "Lara",
+      "email": "student15@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 17
+    },
+    {
+      "name": "Paula",
+      "lastName": "Ortega",
+      "email": "student16@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 18
+    },
+    {
+      "name": "Héctor",
+      "lastName": "Mendoza",
+      "email": "student17@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 19
+    },
+    {
+      "name": "Carmen",
+      "lastName": "Gutiérrez",
+      "email": "student18@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 20
+    },
+    {
+      "name": "Miguel",
+      "lastName": "Navarro",
+      "email": "student19@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 21
+    },
+    {
+      "name": "Gabriela",
+      "lastName": "Reyes",
+      "email": "student20@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 22
+    },
+    {
+      "name": "Emilio",
+      "lastName": "Silva",
+      "email": "student21@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 23
+    },
+    {
+      "name": "Daniela",
+      "lastName": "Chávez",
+      "email": "student22@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 24
+    },
+    {
+      "name": "Jorge",
+      "lastName": "Guerrero",
+      "email": "student23@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 25
+    },
+    {
+      "name": "Elena",
+      "lastName": "Orozco",
+      "email": "student24@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 26
+    },
+    {
+      "name": "Oscar",
+      "lastName": "López",
+      "email": "student25@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 27
+    },
+    {
+      "name": "Valeria",
+      "lastName": "Martínez",
+      "email": "student26@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 28
+    },
+    {
+      "name": "Andrés",
+      "lastName": "Hernández",
+      "email": "student27@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 29
+    },
+    {
+      "name": "Lucía",
+      "lastName": "Gómez",
+      "email": "student28@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 30
+    },
+    {
+      "name": "Mateo",
+      "lastName": "Díaz",
+      "email": "student29@mail.com",
+      "password": "123456",
+      "token": "321473rBVCBjkehwu",
+      "role": "STUDENT",
+      "id": 31
+    },
+    {
+      "name": "Elena",
+      "lastName": "García",
+      "email": "teacher1@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 33
+    },
+    {
+      "name": "Francisco",
+      "lastName": "Martínez",
+      "email": "teacher2@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 34
+    },
+    {
+      "name": "Laura",
+      "lastName": "Hernández",
+      "email": "teacher3@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 35
+    },
+    {
+      "name": "Pedro",
+      "lastName": "Díaz",
+      "email": "teacher4@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 36
+    },
+    {
+      "name": "Carolina",
+      "lastName": "López",
+      "email": "teacher5@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 37
+    },
+    {
+      "name": "Roberto",
+      "lastName": "Sánchez",
+      "email": "teacher6@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 38
+    },
+    {
+      "name": "Ana",
+      "lastName": "Gómez",
+      "email": "teacher7@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 39
+    },
+    {
+      "name": "Javier",
+      "lastName": "Pérez",
+      "email": "teacher8@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 40
+    },
+    {
+      "name": "María",
+      "lastName": "Martínez",
+      "email": "teacher9@mail.com",
+      "password": "123456",
+      "token": "321473rjkehwu",
+      "role": "EMPLOYEE",
+      "id": 41
+    }
+  ],
+  "enrollments": [
+    {
+      "courseId": 3,
+      "userId": 12,
+      "id": 1
+    },
+    {
+      "courseId": 5,
+      "userId": 11,
+      "id": 2
+    },
+    {
+      "courseId": 4,
+      "userId": 28,
+      "id": 3
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Hemoderivados"
+    },
+    {
+      "id": 2,
+      "name": "Hemdotransfución"
+    },
+    {
+      "id": 3,
+      "name": "Gestión en Servcios de Hemoterapia"
+    },
+    {
+      "id": 4,
+      "name": "Etica Profecinal"
+    },
+    {
+      "id": 5,
+      "name": "Bioseguridad"
+    }
+  ]
+}
